@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"doracms2.woodcategories"},{"v":2,"key":{"creator":1},"name":"creator_1","ns":"doracms2.woodcategories","background":true}],"uuid":"f9a5ff4d3759443d9fd3006c7aa7e9a8"}

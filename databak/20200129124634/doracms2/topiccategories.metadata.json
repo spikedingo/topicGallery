@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":2,"key":{"_id":1},"name":"_id_","ns":"doracms2.topiccategories"},{"v":2,"key":{"creator":1},"name":"creator_1","ns":"doracms2.topiccategories","background":true}],"uuid":"8e5716cc1bbb47d39c4b036db7fc95b4"}
